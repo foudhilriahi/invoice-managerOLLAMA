@@ -26,7 +26,7 @@ This is a fully offline, local Python desktop invoice management app using:
 ### 1. Clone the repository and set up the Python environment
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/invoice-manager.git
+
 cd invoice-manager/src
 python -m venv .venv
 # Activate virtual environment:
